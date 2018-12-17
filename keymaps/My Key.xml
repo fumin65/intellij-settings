@@ -60,16 +60,6 @@
     <keyboard-shortcut first-keystroke="shift meta left" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
-  <action id="EditorMoveDownAndScroll">
-    <keyboard-shortcut first-keystroke="meta j" />
-  </action>
-  <action id="EditorMoveUpAndScroll">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
-  <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="EditorPageDownWithSelection">
     <keyboard-shortcut first-keystroke="shift page_down" />
     <keyboard-shortcut first-keystroke="shift meta down" />
@@ -77,10 +67,6 @@
   <action id="EditorPageUpWithSelection">
     <keyboard-shortcut first-keystroke="shift page_up" />
     <keyboard-shortcut first-keystroke="shift meta up" />
-  </action>
-  <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift right" />
@@ -107,16 +93,14 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
-  <action id="FindNext" />
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="IncrementWindowHeight" />
-  <action id="IncrementalSearch" />
-  <action id="Macro.import_opt">
-    <keyboard-shortcut first-keystroke="meta s" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="Macro.save">
+  <action id="Macro.import_opt">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MethodHierarchy">
@@ -129,7 +113,6 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta f6" />
-    <keyboard-shortcut first-keystroke="meta alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="RecentFiles" />
@@ -139,12 +122,11 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -182,6 +164,7 @@
   </action>
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
     <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
 </keymap>
