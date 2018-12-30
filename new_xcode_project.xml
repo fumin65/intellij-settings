@@ -1,0 +1,8 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/Documents" />
+    <string key="bundleIdentifierPrefix" value="app.saltforest" />
+    <string key="organizationName" value="SALT FOREST" />
+    <string key="languageChoice" value="Swift" />
+  </component>
+</application>
