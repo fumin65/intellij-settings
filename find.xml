@@ -11,8 +11,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
