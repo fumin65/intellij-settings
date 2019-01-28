@@ -113,7 +113,9 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
-  <action id="FindNext" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="FindPrevious" />
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f12" />
