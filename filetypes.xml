@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="jasper" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="sdef" type="XML" />
+      <mapping ext="jasper" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
