@@ -46,6 +46,9 @@
     <keyboard-shortcut first-keystroke="shift down" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="EditorLeftWithSelection">
     <keyboard-shortcut first-keystroke="shift left" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -127,6 +130,10 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="FindPrevious" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
