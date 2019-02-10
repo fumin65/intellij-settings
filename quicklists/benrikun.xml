@@ -1,0 +1,4 @@
+<list display="benrikun" description="便利なやつ">
+  <action id="NewClass" />
+  <action id="Kotlin.NewFile" />
+</list>
