@@ -1,4 +1,6 @@
 <list display="benrikun" description="便利なやつ">
-  <action id="NewClass" />
   <action id="Kotlin.NewFile" />
+  <action id="NewClass" />
+  <action id="NewDir" />
+  <action id="QuickList.$Separator$" />
 </list>
