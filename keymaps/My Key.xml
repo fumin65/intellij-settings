@@ -132,6 +132,9 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="IncrementalSearch" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Macro.import_opt">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -173,6 +176,10 @@
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt enter" />
