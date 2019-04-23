@@ -50,10 +50,18 @@
     <keyboard-shortcut first-keystroke="shift left" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="EditorLineEndWithSelection">
     <keyboard-shortcut first-keystroke="shift end" />
     <keyboard-shortcut first-keystroke="shift meta right" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift home" />
@@ -86,15 +94,23 @@
     <keyboard-shortcut first-keystroke="shift right" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="meta alt enter" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift up" />
@@ -107,12 +123,21 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
-  <action id="FindNext" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="FindPrevious" />
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="IncrementWindowHeight" />
   <action id="IncrementalSearch" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Macro.import_opt">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -132,19 +157,32 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="QuickList.benrikun">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="RecentFiles" />
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta f11" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -177,6 +215,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Push" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
