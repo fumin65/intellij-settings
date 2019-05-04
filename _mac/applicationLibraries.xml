@@ -227,11 +227,6 @@
       </excluded>
     </library>
     <library name="firebaseui" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_firebaseui_3.1.1_firebaseui.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_firebaseui_3.1.1_firebaseui.js" />
       </CLASSES>
