@@ -132,12 +132,6 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="IncrementalSearch" />
-  <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="ctrl alt j" />
-  </action>
-  <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
   <action id="Macro.import_opt">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -156,9 +150,6 @@
     <keyboard-shortcut first-keystroke="shift meta f6" />
     <keyboard-shortcut first-keystroke="meta alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
-  </action>
-  <action id="QuickList.benrikun">
-    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
@@ -179,10 +170,6 @@
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
-  <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="meta f1" />
-    <keyboard-shortcut first-keystroke="shift meta 1" />
-  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -218,6 +205,12 @@
   <action id="Vcs.Push" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
     <keyboard-shortcut first-keystroke="shift alt u" />
