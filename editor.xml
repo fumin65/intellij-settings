@@ -4,20 +4,16 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_SIZE" value="16" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
-    <option name="COLLAPSE_ENTITIES" value="false" />
-    <option name="COLLAPSE_DATA_URI" value="false" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
