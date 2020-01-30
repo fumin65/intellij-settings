@@ -132,9 +132,6 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="IncrementalSearch" />
-  <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
-  </action>
   <action id="Macro.import_opt">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
