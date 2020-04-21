@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="71e4cd32-1cae-4dbe-b15f-50754140755e" type="Image" />
+      <mapping pattern="a4ba788b-6d5f-47ec-8c37-f639b33247a9" type="Image" />
       <mapping pattern="f84dadcb-fb8b-4a0d-9175-52b9a68cd7f9" type="Image" />
       <mapping pattern=".gitmodule" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
