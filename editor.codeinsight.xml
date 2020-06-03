@@ -2,8 +2,4 @@
   <component name="DartCodeFoldingSettings">
     <option name="collapseParts" value="false" />
   </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseLambdas" value="false" />
-    <option name="collapseOneLineMethods" value="false" />
-  </component>
 </application>
