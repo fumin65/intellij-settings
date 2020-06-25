@@ -3,6 +3,9 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
+  <component name="DartCodeFoldingSettings">
+    <option name="collapseParts" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
   </component>
