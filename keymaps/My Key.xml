@@ -127,6 +127,9 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="FindPrevious" />
+  <action id="Flutter.Toolbar.ReloadAction">
+    <keyboard-shortcut first-keystroke="meta #10000a5" />
+  </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
