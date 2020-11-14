@@ -30,6 +30,7 @@
         <entry key="extract method" value="NOT_PASSED" />
         <entry key="extract variable" value="NOT_PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
+        <entry key="fixing a test file" value="NOT_PASSED" />
         <entry key="generate missing methods" value="NOT_PASSED" />
         <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
         <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
@@ -55,6 +56,7 @@
         <entry key="method-like function completion" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
+        <entry key="navigation from comments" value="NOT_PASSED" />
         <entry key="navigation.declaration/implementation" value="NOT_PASSED" />
         <entry key="navigation.filestructure" value="NOT_PASSED" />
         <entry key="navigation.jumptosource" value="NOT_PASSED" />
@@ -75,6 +77,7 @@
         <entry key="smart type completion and pointers" value="NOT_PASSED" />
         <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
         <entry key="statement completion" value="NOT_PASSED" />
+        <entry key="struct inspections" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
@@ -101,6 +104,7 @@
         <entry key="swift.refactorings.rename" value="NOT_PASSED" />
         <entry key="using live templates with types" value="NOT_PASSED" />
         <entry key="working with variadic functions" value="NOT_PASSED" />
+        <entry key="wrapping long lines" value="NOT_PASSED" />
       </map>
     </option>
   </component>
