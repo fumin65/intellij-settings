@@ -25,6 +25,7 @@
         <entry key="debug function calls" value="NOT_PASSED" />
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="NOT_PASSED" />
+        <entry key="editorbasics.commentline" value="NOT_PASSED" />
         <entry key="editorbasics.deleteline" value="NOT_PASSED" />
         <entry key="editorbasics.selection" value="NOT_PASSED" />
         <entry key="extract method" value="NOT_PASSED" />
