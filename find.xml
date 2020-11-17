@@ -17,5 +17,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

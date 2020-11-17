@@ -207,10 +207,10 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
     <keyboard-shortcut first-keystroke="shift alt u" />
