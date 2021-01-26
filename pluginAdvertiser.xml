@@ -128,6 +128,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cgo">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.go" />
+              <option name="myPluginName" value="Go" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -215,6 +223,14 @@
               <option name="myPluginId" value="DevKit" />
               <option name="myPluginName" value="Plugin DevKit" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dart">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Dart" />
+              <option name="myPluginName" value="Dart" />
             </plugin>
           </value>
         </entry>
@@ -494,6 +510,22 @@
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.go">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.go" />
+              <option name="myPluginName" value="Go" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.go2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.go" />
+              <option name="myPluginName" value="Go" />
             </plugin>
           </value>
         </entry>
@@ -1316,6 +1348,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.s">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.go" />
+              <option name="myPluginName" value="Go" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sass">
           <value>
             <plugin>
@@ -1802,6 +1842,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".analysis_options">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -2015,6 +2064,14 @@
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="go.mod">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.go" />
+              <option name="myPluginName" value="Go" />
             </plugin>
           </value>
         </entry>
@@ -2246,6 +2303,11 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="CloudCodeCloudRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Cloud Run" pluginName="Cloud Code" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -2254,6 +2316,26 @@
                   <entry key="CucumberJavaRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Cucumber Java" pluginName="Cucumber for Java" pluginId="cucumber-java" />
+                    </value>
+                  </entry>
+                  <entry key="DartCommandLineRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Command Line App" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Remote Debug" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Test" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartWebdevConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Web" pluginName="Dart" pluginId="Dart" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
@@ -2266,9 +2348,54 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="FlutterBazelRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter (Bazel)" pluginName="Flutter" pluginId="io.flutter" />
+                    </value>
+                  </entry>
+                  <entry key="FlutterBazelTestConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter Test (Bazel)" pluginName="Flutter" pluginId="io.flutter" />
+                    </value>
+                  </entry>
+                  <entry key="FlutterRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter" pluginName="Flutter" pluginId="io.flutter" />
+                    </value>
+                  </entry>
+                  <entry key="FlutterTestConfigType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter Test" pluginName="Flutter" pluginId="io.flutter" />
+                    </value>
+                  </entry>
+                  <entry key="GCPDebug">
+                    <value>
+                      <FeaturePluginData displayName="Google Cloud Debugger" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
                   <entry key="GlassfishConfiguration">
                     <value>
                       <FeaturePluginData displayName="GlassFish Server" pluginName="GlassFish" pluginId="GlassFish" />
+                    </value>
+                  </entry>
+                  <entry key="GoAppEngineRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Go App Engine" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                    </value>
+                  </entry>
+                  <entry key="GoApplicationRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Go Build" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                    </value>
+                  </entry>
+                  <entry key="GoRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Go Remote" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                    </value>
+                  </entry>
+                  <entry key="GoTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Go Test" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -2466,6 +2593,21 @@
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="gcp-app-engine-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine Deployment" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="gcp-app-engine-local-run">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine Standard Local Server" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
+                  <entry key="google-container-tools-skaffold-run-config">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Kubernetes" pluginName="Cloud Code" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
                   <entry key="js.build_tools.grunt">
                     <value>
                       <FeaturePluginData displayName="Grunt.js" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
@@ -2529,6 +2671,16 @@
                   <entry key="apk">
                     <value>
                       <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="app-engine-flexible">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine Flexible" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
+                  <entry key="app-engine-standard">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine Standard" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
                     </value>
                   </entry>
                   <entry key="ejb">
