@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Dockerfile-jar" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile_local" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile_dev" type="AUTO_DETECTED" />
       <mapping pattern="Docker" type="AUTO_DETECTED" />
