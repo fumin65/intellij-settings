@@ -18,6 +18,7 @@
       <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping ext="native" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
+      <removed_mapping ext="wadl" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
