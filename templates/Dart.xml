@@ -1,5 +1,14 @@
 <templateSet group="Dart">
-  <template name="mock" value="import 'package:mocktail/mocktail.dart'&#10;&#10;class Mock$CLASS$ extends Mock implements $CLASS$ {}&#10; " description="Define mock class" toReformat="false" toShortenFQNames="true">
+  <template name="mock" value="class Mock$CLASS$ extends Mock implements $CLASS$$END$ {}&#10; " description="Define mock class" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="mock_i" value="import 'package:mocktail/mocktail.dart';&#10;&#10;class Mock$CLASS$ extends Mock implements $CLASS$$END$ {}&#10; " description="Define mock class" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
   </template>
 </templateSet>
