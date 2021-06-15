@@ -1,0 +1,5 @@
+<templateSet group="Dart">
+  <template name="mock" value="import 'package:mocktail/mocktail.dart'&#10;&#10;class Mock$CLASS$ extends Mock implements $CLASS$ {}&#10; " description="Define mock class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
