@@ -14,9 +14,9 @@
     <mask>*Page.java</mask>
     <mask>*ListPage.java</mask>
     <mask>*Dao.java</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
     <mask>*.ts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
