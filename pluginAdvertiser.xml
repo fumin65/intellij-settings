@@ -29,22 +29,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.ad">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.adoc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.aidl">
           <value>
             <plugin>
@@ -105,14 +89,6 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.asciidoc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
             </plugin>
           </value>
         </entry>
@@ -383,15 +359,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.ejs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.lang.ejs" />
-              <option name="myPluginName" value="EJS" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.elt">
           <value>
             <plugin>
@@ -606,29 +573,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.handlebars">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.har">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.hbs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -746,15 +695,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.jade">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1121,15 +1061,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.mustache">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.ng">
           <value>
             <plugin>
@@ -1308,15 +1239,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.pug">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1465,15 +1387,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.spacebars">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.meteor" />
-              <option name="myPluginName" value="Meteor" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1671,15 +1584,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.velocity" />
               <option name="myPluginName" value="Velocity" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.vue">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
-              <option name="myPluginName" value="Vue.js" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1891,14 +1795,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key=".asciidoctorconfig">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -1990,15 +1886,6 @@
           </value>
         </entry>
         <entry key=".nvmrc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key=".prettierrc">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -2331,6 +2218,26 @@
                       <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
                     </value>
                   </entry>
+                  <entry key="AppCodeCatchTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Catch" pluginName="AppCode Catch" pluginId="org.jetbrains.plugins.appcode.test.catch" />
+                    </value>
+                  </entry>
+                  <entry key="AppleAppExtensionRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Application Extension" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
+                    </value>
+                  </entry>
+                  <entry key="AppleRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Application" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
+                    </value>
+                  </entry>
+                  <entry key="AppleScriptRunType">
+                    <value>
+                      <FeaturePluginData displayName="Run AppleScript" pluginName="AppleScript Support" pluginId="com.intellij.plugin.applescript" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
@@ -2561,6 +2468,21 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="OCBoostTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Boost.Test" pluginName="AppCode Boost.Test" pluginId="org.jetbrains.plugins.appcode.test.boost" />
+                    </value>
+                  </entry>
+                  <entry key="OCGoogleTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Google Test" pluginName="AppCode Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.appcode.test.google" />
+                    </value>
+                  </entry>
+                  <entry key="OCUnitRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="XCTest" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
+                    </value>
+                  </entry>
                   <entry key="PhoneGap">
                     <value>
                       <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" />
@@ -2594,6 +2516,16 @@
                   <entry key="SwaggerCodegen">
                     <value>
                       <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" />
+                    </value>
+                  </entry>
+                  <entry key="SwiftPackageManagerRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Swift Package Run" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
+                    </value>
+                  </entry>
+                  <entry key="SwiftPackageManagerTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Swift Package Test" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
