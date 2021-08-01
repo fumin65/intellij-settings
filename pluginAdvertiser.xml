@@ -146,6 +146,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cpt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.thoughtworks.gauge" />
+              <option name="myPluginName" value="Gauge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dart">
           <value>
             <plugin>
@@ -168,6 +176,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -581,6 +590,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -598,6 +608,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -606,6 +617,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -614,6 +626,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -622,6 +635,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -630,6 +644,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -638,6 +653,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -656,6 +672,22 @@
               <option name="myPluginId" value="com.intellij.cidr.base" />
               <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.markdown">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.md">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
             </plugin>
           </value>
         </entry>
@@ -728,6 +760,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -848,6 +888,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.proto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
@@ -965,6 +1013,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.spec">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.thoughtworks.gauge" />
+              <option name="myPluginName" value="Gauge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.svg">
           <value>
             <plugin>
@@ -980,6 +1036,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.textproto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -1445,6 +1509,11 @@
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
+                    </value>
+                  </entry>
+                  <entry key="executeSpecs">
+                    <value>
+                      <FeaturePluginData displayName="Gauge Execution" pluginName="Gauge" pluginId="com.thoughtworks.gauge" />
                     </value>
                   </entry>
                 </map>
