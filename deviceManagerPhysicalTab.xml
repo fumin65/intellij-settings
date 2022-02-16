@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="94PAY0RHFB" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-08T13:24:11.862982Z" />
+        <name value="Google Pixel 3a" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
