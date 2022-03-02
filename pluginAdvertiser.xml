@@ -29,22 +29,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.ad">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.adoc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.aidl">
           <value>
             <plugin>
@@ -59,15 +43,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.aspectj" />
               <option name="myPluginName" value="AspectJ" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.alloc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -108,36 +83,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.arb">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.localizely.flutter-intl" />
-              <option name="myPluginName" value="Flutter Intl" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.as">
           <value>
             <plugin>
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.asciidoc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.asm">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -222,15 +172,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.cmake">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.coffee">
           <value>
             <plugin>
@@ -246,14 +187,6 @@
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.cpt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.thoughtworks.gauge" />
-              <option name="myPluginName" value="Gauge" />
             </plugin>
           </value>
         </entry>
@@ -391,15 +324,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.doxygen">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.drl">
           <value>
             <plugin>
@@ -432,15 +356,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.ejs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.lang.ejs" />
-              <option name="myPluginName" value="EJS" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -562,15 +477,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.gdbcommandsfiletypeextension">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.base" />
-              <option name="myPluginName" value="CIDR Base" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.gdsl">
           <value>
             <plugin>
@@ -668,38 +574,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.handlebars">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.har">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.hbs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.heapprofd">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -718,15 +597,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.hmap">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -834,15 +704,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.jade">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1170,15 +1031,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.lldbcommandsfiletypeextension">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.base" />
-              <option name="myPluginName" value="CIDR Base" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.mako">
           <value>
             <plugin>
@@ -1235,24 +1087,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.modulemap">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.mustache">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1333,24 +1167,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.perfetto-trace">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pftrace">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1458,15 +1274,6 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pug">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1679,23 +1486,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.spacebars">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.meteor" />
-              <option name="myPluginName" value="Meteor" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.spec">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.thoughtworks.gauge" />
-              <option name="myPluginName" value="Gauge" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.sql">
           <value>
             <plugin>
@@ -1905,15 +1695,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.velocity" />
               <option name="myPluginName" value="Velocity" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.vue">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
-              <option name="myPluginName" value="Vue.js" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2133,14 +1914,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key=".asciidoctorconfig">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
-              <option name="myPluginName" value="AsciiDoc" />
-            </plugin>
-          </value>
-        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -2240,15 +2013,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key=".prettierrc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key=".project">
           <value>
             <plugin>
@@ -2290,24 +2054,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="CMakeCache.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="CMakeLists.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2639,11 +2385,6 @@
                       <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
                     </value>
                   </entry>
-                  <entry key="AppEngineRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="App Engine DevAppServer" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
-                    </value>
-                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
@@ -2672,11 +2413,6 @@
                   <entry key="CloudCodeCloudRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Cloud Code: Cloud Run" pluginName="Cloud Code" pluginId="com.google.gct.core" />
-                    </value>
-                  </entry>
-                  <entry key="ComposePreviewRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -2824,11 +2560,6 @@
                       <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
                     </value>
                   </entry>
-                  <entry key="JavaScriptTestRunnerKarma">
-                    <value>
-                      <FeaturePluginData displayName="Karma" pluginName="Karma" pluginId="Karma" />
-                    </value>
-                  </entry>
                   <entry key="JavaScriptTestRunnerProtractor">
                     <value>
                       <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
@@ -2887,11 +2618,6 @@
                   <entry key="NodeunitConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
-                    </value>
-                  </entry>
-                  <entry key="PhoneGap">
-                    <value>
-                      <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" />
                     </value>
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">
@@ -3004,19 +2730,9 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
-                  <entry key="cucumber.js">
-                    <value>
-                      <FeaturePluginData displayName="Cucumber.js" pluginName="Cucumber.js" pluginId="cucumber-javascript" />
-                    </value>
-                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
-                    </value>
-                  </entry>
-                  <entry key="executeSpecs">
-                    <value>
-                      <FeaturePluginData displayName="Gauge Execution" pluginName="Gauge" pluginId="com.thoughtworks.gauge" />
                     </value>
                   </entry>
                   <entry key="gcp-app-engine-deploy">
@@ -3047,11 +2763,6 @@
                   <entry key="js.build_tools.npm">
                     <value>
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
-                    </value>
-                  </entry>
-                  <entry key="meteor-app-runner">
-                    <value>
-                      <FeaturePluginData displayName="Meteor" pluginName="Meteor" pluginId="com.jetbrains.plugins.meteor" />
                     </value>
                   </entry>
                   <entry key="mocha-javascript-test-runner">
@@ -3099,11 +2810,6 @@
                       <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
-                  <entry key="android-artifact">
-                    <value>
-                      <FeaturePluginData displayName="Android Artifact" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
                   <entry key="android-gradle">
                     <value>
                       <FeaturePluginData displayName="Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -3117,11 +2823,6 @@
                   <entry key="app-engine-flexible">
                     <value>
                       <FeaturePluginData displayName="Google App Engine Flexible" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
-                    </value>
-                  </entry>
-                  <entry key="app-engine-gradle">
-                    <value>
-                      <FeaturePluginData displayName="App Engine Gradle" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
                     </value>
                   </entry>
                   <entry key="app-engine-standard">
