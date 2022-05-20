@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="1B151JEG501176" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-20T08:41:52.844372Z" />
+        <name value="Google Pixel 5a" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="94PAY0RHFB" />
           </Key>
         </key>
