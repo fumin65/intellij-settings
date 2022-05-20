@@ -19,5 +19,6 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.swift</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
