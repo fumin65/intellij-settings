@@ -1,0 +1,7 @@
+<templateSet group="Flutter">
+  <template name="cxtim" value="import 'package:app/presentation/ext/context_ext.dart';" description="Context Extension import" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
