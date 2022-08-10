@@ -12,6 +12,7 @@
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="swiftdoc" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PlantUML file" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="sdef" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
