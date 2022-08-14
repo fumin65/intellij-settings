@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="cert" type="AUTO_DETECTED" />
       <mapping ext="mp4" type="Native" />
+      <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
