@@ -13,6 +13,7 @@
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="swiftdoc" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
+      <mapping ext="locationspattern" type="ktor locations pattern" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
