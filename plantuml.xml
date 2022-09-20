@@ -2,13 +2,8 @@
   <component name="PlantUmlSettingsNew">
     <option name="PLANTUML_LIMIT_SIZE" value="" />
     <option name="customPlantumlJarPath" value="" />
-    <option name="dotExecutable" value="/opt/homebrew/Cellar/graphviz/5.0.1/bin/dot" />
+    <option name="dotExecutable" value="/usr/local/bin/dot" />
     <option name="includedPaths" value="" />
-    <option name="lastBundledVersion" value="1.2021.7" />
-    <option name="previewSettings">
-      <PreviewSettings>
-        <option name="splitEditorLayout" value="Show editor and preview - horizontal split" />
-      </PreviewSettings>
-    </option>
+    <option name="lastBundledVersion" value="1.2022.7" />
   </component>
 </application>
