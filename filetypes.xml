@@ -12,8 +12,6 @@
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="swiftdoc" type="PLAIN_TEXT" />
-      <mapping ext="pu" type="PlantUML file" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="sdef" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -23,6 +21,8 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <mapping ext="locationspattern" type="ktor locations pattern" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="pu" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
