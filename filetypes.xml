@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="cert" type="AUTO_DETECTED" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -13,13 +12,13 @@
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="swiftdoc" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <mapping ext="sdef" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <mapping ext="locationspattern" type="ktor locations pattern" />
