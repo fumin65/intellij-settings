@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="sealed" value="static $NAME$: ($VARS$) =&gt; $TYPE$ = _$$$TYPE$;" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
