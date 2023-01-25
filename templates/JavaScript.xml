@@ -16,4 +16,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="sealed3" value="static $NAME$: ({}: {$VARS$}) =&gt; $CLASS$ = _$$$TYPE$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="jsClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
