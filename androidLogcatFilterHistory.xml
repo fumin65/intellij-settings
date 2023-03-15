@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine test" />
+        <option value="package:mine get result" />
       </list>
     </option>
   </component>
