@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="hogehogehoge" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="hogehogehoge" />
         <option value="package:mine test" />
         <option value="package:mine get result" />
