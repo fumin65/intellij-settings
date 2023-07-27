@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="1B151JEG501176" />
+            <value value="24221FDF6004A0" />
           </Key>
         </key>
-        <name value="Google Pixel 5a" />
+        <name value="Google Pixel 6" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="24221FDF6004A0" />
+            <value value="1B151JEG501176" />
           </Key>
         </key>
-        <name value="Google Pixel 6" />
+        <name value="Google Pixel 5a" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
