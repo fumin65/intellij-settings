@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine test" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="hogehogehoge" />
         <option value="package:mine get result" />
       </list>
     </option>

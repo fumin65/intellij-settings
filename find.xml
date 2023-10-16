@@ -19,8 +19,8 @@
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
     <mask>*.ts</mask>
-    <mask>*.java</mask>
     <mask>*.swift</mask>
     <mask>*.dart</mask>
+    <mask>*.java</mask>
   </component>
 </application>
