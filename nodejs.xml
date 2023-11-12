@@ -1,7 +1,7 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="$USER_HOME$/.nodebrew/current/bin/node">
-      <version-cache version="18.0.0" last-modified="1650324175000" />
+      <version-cache version="19.8.1" last-modified="1678896655000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/Documents/tool/graalvm-ce-19.2.0.1/Contents/Home/bin/node">
       <version-cache version="10.15.2" last-modified="1568323055000" />
