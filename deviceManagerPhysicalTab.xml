@@ -1,0 +1,71 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="24221FDF6004A0" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1B151JEG501176" />
+          </Key>
+        </key>
+        <name value="Google Pixel 5a" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-84AM000120-IbDoc8._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="KEYENCE DX-A600" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="94PAY0RHFB" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3a" />
+        <target value="Android API 32" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-24221FDF6004A0-GeYst3._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android API 32" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="(no serial number)" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
