@@ -3,5 +3,10 @@
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingModeV2" value="NeverShare" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1734016780655">ScaffoldにbottomBarを追加して</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
