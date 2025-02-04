@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1738687021394">パディングを16pxつけて</historyEntry>
         <historyEntry timestamp="1734016780655">ScaffoldにbottomBarを追加して</historyEntry>
       </list>
     </option>

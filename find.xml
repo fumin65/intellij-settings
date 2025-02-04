@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="_page.dart" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,9 +19,10 @@
     <mask>*.xhtml</mask>
     <mask>*.ts</mask>
     <mask>*.swift</mask>
-    <mask>*.dart</mask>
     <mask>*.java</mask>
     <mask>*.toml</mask>
     <mask>*.rs</mask>
+    <mask>*.dart</mask>
+    <mask>_page.dart</mask>
   </component>
 </application>
