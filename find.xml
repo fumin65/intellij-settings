@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="_page.dart" />
+    <option name="FILE_MASK" value="*.dart" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +22,7 @@
     <mask>*.java</mask>
     <mask>*.toml</mask>
     <mask>*.rs</mask>
-    <mask>*.dart</mask>
     <mask>_page.dart</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
