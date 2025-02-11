@@ -22,7 +22,7 @@
     <mask>*.toml</mask>
     <mask>*.rs</mask>
     <mask>_page.dart</mask>
-    <mask>*.dart</mask>
     <mask>*.kt</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
