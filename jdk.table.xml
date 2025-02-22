@@ -260,12 +260,12 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
         </javadocPath>
         <sourcePath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-32" type="simple" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
       <additional sdk="android-32" />
@@ -327,7 +327,7 @@
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.4" />
+      <version value="JetBrains Runtime 21.0.4 - aarch64" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
       <roots>
         <annotationsPath>
@@ -399,9 +399,7 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="https://docs.oracle.com/en/java/javase/21/docs/api/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
           <root type="composite" />
