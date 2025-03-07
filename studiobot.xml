@@ -5,11 +5,54 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1739436336923">あなたはAndroidのアプリ開発に精通したエンジニアです。
-このレイアウトファイルに、ToolbarとListViewを追加してください。
-ListViewにはタイトルのみ表示します。</historyEntry>
-        <historyEntry timestamp="1738687021394">パディングを16pxつけて</historyEntry>
-        <historyEntry timestamp="1734016780655">ScaffoldにbottomBarを追加して</historyEntry>
+        <historyEntry timestamp="1740654172348">日本語に翻訳して</historyEntry>
+        <historyEntry timestamp="1740654148317">以下のコードをレビューして
+```kotlin
+/**
+ * Pigeonで生成されたMyNumberNativeApiインターフェースの実装クラス。
+ */
+class MyNumberApi(private var activity: FragmentActivity?) : MyNumberNativeApi {
+    
+    @Suppress(&quot;DEPRECATION&quot;)
+    override fun sign(args: SignArgs, callback: (Result&lt;Signature&gt;) -&gt; Unit) {
+        activity?.let {
+            it.supportFragmentManager
+                .setFragmentResultListener(&quot;response&quot;, it) { _, bundle -&gt;
+                    val succeeded = bundle.getBoolean(&quot;succeeded&quot;)
+                    if (succeeded) {
+                        val digitalSignature = bundle.getByteArray(&quot;digitalSignature&quot;)!!
+                        val certificate = bundle.getByteArray(&quot;certificate&quot;)!!
+                        callback(Result.success(Signature(certificate, digitalSignature)))
+                    } else {
+                        val type = bundle.getString(&quot;type&quot;)!!
+                        val detail = if (Build.VERSION.SDK_INT &gt;= Build.VERSION_CODES.TIRAMISU) {
+                            bundle.getSerializable(&quot;detail&quot;, Serializable::class.java)
+                        } else {
+                            bundle.getSerializable(&quot;detail&quot;)
+                        }
+                        
+                        callback(Result.failure(FlutterError(type, null, detail)))
+                    }
+                }
+
+            // Pigeonの型からSignatureArgsに変換
+            val signatureReasonId = args.signatureReasonId?.toInt()
+            val signatureArgs = SignatureArgs(
+                loginId = args.loginId,
+                pin = args.pin,
+                signatureReasonId = signatureReasonId,
+                signatureReasonContent = args.signatureReasonContent
+            )
+
+            SignatureFragment
+                .create(signatureArgs)
+                .show(it.supportFragmentManager, null)
+        } ?: run {
+            callback(Result.failure(FlutterError(&quot;no_activity&quot;, &quot;Activity is not available&quot;, null)))
+        }
+    }
+}
+```</historyEntry>
       </list>
     </option>
   </component>
