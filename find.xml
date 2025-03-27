@@ -20,12 +20,12 @@
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
     <mask>*.ts</mask>
-    <mask>*.swift</mask>
     <mask>*.java</mask>
     <mask>*.toml</mask>
     <mask>*.rs</mask>
     <mask>_page.dart</mask>
     <mask>*.kt</mask>
+    <mask>*.swift</mask>
     <mask>*.dart</mask>
   </component>
 </application>
