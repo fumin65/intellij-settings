@@ -132,7 +132,7 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="IncrementalSearch" />
-  <action id="Macro.import_opt">
+  <action id="Macro.save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MethodHierarchy">
@@ -166,6 +166,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunToCursor" />
+  <action id="SaveAll" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt enter" />
