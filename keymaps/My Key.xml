@@ -166,7 +166,6 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunToCursor" />
-  <action id="SaveAll" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt enter" />
