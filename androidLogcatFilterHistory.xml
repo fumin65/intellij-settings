@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="jp.co.legal.rss" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="jp.co.legal.rss.dev" />
+        <option value="jp.co.shiftplus.iammobile" />
         <option value="jp.co.legal.rss" />
+        <option value="deep link " />
+        <option value="jp.saltforest.appsflyer" />
+        <option value="link: " />
         <option value="start listen" />
         <option value="package:mine test" />
         <option value="package:mine " />
