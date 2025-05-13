@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="jp.co.legal.rss.dev RssApplication" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
+        <option value="deep link status:" />
+        <option value="jp.saltforest.appsflyer" />
         <option value="jp.co.legal.rss.dev RssApplication" />
         <option value="jp.co.legal.rss.dev database" />
         <option value="jp.co.legal.rss.dev" />
         <option value="jp.co.shiftplus.iammobile" />
         <option value="jp.co.legal.rss" />
         <option value="deep link " />
-        <option value="jp.saltforest.appsflyer" />
         <option value="link: " />
         <option value="start listen" />
         <option value="package:mine test" />
