@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="Reply already submitted" />
     <option name="nonFavorites">
       <list>
+        <option value="Reply already submitted" />
         <option value="flutter" />
         <option value="deep link status:" />
         <option value="jp.saltforest.appsflyer" />
