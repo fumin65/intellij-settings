@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Reply already submitted" />
+    <option name="mostRecentlyUsed" value="package:mine result :" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine result :" />
+        <option value="package:mine result :505" />
+        <option value="package:mine " />
+        <option value="package:mine result" />
         <option value="Reply already submitted" />
         <option value="flutter" />
         <option value="deep link status:" />
@@ -16,7 +20,6 @@
         <option value="link: " />
         <option value="start listen" />
         <option value="package:mine test" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="hogehogehoge" />
         <option value="package:mine get result" />
