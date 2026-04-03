@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:jp.co.legal.rss.dev " />
     <option name="nonFavorites">
       <list>
+        <option value="package:jp.co.legal.rss.dev " />
         <option value="package:mine " />
         <option value="package:mine DocumentCaptureTutorialFragment" />
         <option value="package:mine RequestFragment" />
@@ -21,7 +23,6 @@
         <option value="deep link " />
         <option value="link: " />
         <option value="start listen" />
-        <option value="package:mine test" />
       </list>
     </option>
   </component>
