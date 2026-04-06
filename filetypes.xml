@@ -4,6 +4,7 @@
       <mapping pattern="mcp.json" type="JSON5" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="symbols" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
