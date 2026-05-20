@@ -1,6 +1,9 @@
 <application>
+  <component name="NextEditOnboardingComponent"><![CDATA[{}]]></component>
   <component name="NextEditPromotionState">
     <option name="promoted" value="true" />
   </component>
-  <component name="NextEditSettings"><![CDATA[{}]]></component>
+  <component name="NextEditSettings"><![CDATA[{
+  "legacyMlCompletionResetApplied": true
+}]]></component>
 </application>
