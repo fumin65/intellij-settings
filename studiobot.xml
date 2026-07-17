@@ -2,6 +2,11 @@
   <component name="StudioBotSettings">
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingModeV2" value="NeverShare" />
+    <option name="notificationAlreadyShown">
+      <map>
+        <entry key="create_with_ai_promotion_notification_DAC" value="true" />
+      </map>
+    </option>
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
